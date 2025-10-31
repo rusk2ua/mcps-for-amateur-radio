@@ -1,6 +1,6 @@
-# mcps-for-amateur-radio
+# MCPs for Amateur Radio
 
-A comprehensive guide to **Model Context Protocol (MCP) servers for Amateur Radio development**—focused on helping non-programmers and developers build VHF/UHF/SHF and EME Amateur Radio software and websites with modern AI workflows.
+A guide to **Model Context Protocol (MCP) servers for Amateur Radio development**—focused on helping non-programmers and developers build VHF/UHF/SHF and EME Amateur Radio software and websites with modern AI workflows.
 
 ## Overview
 
