@@ -143,6 +143,6 @@ The Model Context Protocol (MCP) is an open protocol that standardizes how appli
 
 ---
 
-**73 de [Your Callsign]**
+**73, Rus, K2UA**
 
 *Last Updated: October 31, 2025*
