@@ -49,7 +49,7 @@ Feel free to share, adapt, and contribute.
 
 [Model Context Protocol (MCP)](https://modelcontextprotocol.io/quickstart/server) is an open protocol for standardized, secure application context in AI assistants, enabling new integrations while maintaining user control and privacy.
 
-**73 de [Your Callsign]**
+**73, Rus, K2UA**
 
 ---
 
